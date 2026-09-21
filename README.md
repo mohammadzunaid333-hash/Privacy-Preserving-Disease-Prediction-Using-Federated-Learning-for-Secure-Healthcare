@@ -61,6 +61,29 @@ The system follows a **Federated Learning architecture**:
 4. Global model is updated securely  
 
 ---
+## 🔗 Research Paper & LinkedIn Post
+
+I have also shared this research work on LinkedIn to showcase my learning journey and connect with the tech community.
+
+👉 **Check out my LinkedIn post here:**  
+🔗https://www.linkedin.com/posts/pinjari-mohammed-zunaid-14076527a_privacy-preserving-disease-prediction-using-activity-7507804436208009216-obts?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQZfIABPoZXUc_c4iA-ffyKi78oQBwqm1M
+
+💡 This post highlights:
+- The idea behind the project  
+- Key learnings in Federated Learning & Data Privacy  
+- Real-world application in healthcare  
+- My journey as a student building AI/ML projects  
+
+---
+
+## 🚀 Future Improvements
+
+- 🔹 Implement advanced models (Random Forest, XGBoost)  
+- 🔹 Improve accuracy with hyperparameter tuning  
+- 🔹 Deploy the model using a web interface  
+- 🔹 Integrate real-time healthcare datasets  
+
+
 
 ## 📂 Project Structure
 
